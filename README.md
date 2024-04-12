@@ -1,2 +1,2 @@
 # NBME
-Score conical patients trail score of usmle Using Bert
+Score clinical patients trail score of USMLE Using Bert
